@@ -1,11 +1,11 @@
 # About Me:
- -Hi there! I'm Raj Vardhan Singh, an engineering graduate passionate about building impactful digital solutions using C/C++, MERN Stack, Flutter, Python, and Machine Learning.<br>
- -I love transforming ideas into real-world projects—be it web apps, mobile apps, or intelligent systems.<br> 
- -I'm a lifelong learner who enjoys exploring new technologies and writing clean, efficient code.<br>
- -Looking to collaborate on Open-source projects, innovative app ideas, and anything involving ML, web, or mobile development.<br>
- -Currently learning Deep Learning, TypeScript, Next.js, and sharpening my Data Structures & Algorithms.<br> 
- -Ask me about Flutter, React, Node.js, Python, ML, or tech in general—I’m always up for a good tech talk.<br> 
- -I can spend hours debugging one line of code and still call it a productive day!
+ * Hi there! I'm Raj Vardhan Singh, an engineering graduate passionate about building impactful digital solutions using C/C++, MERN Stack, Flutter, Python, and Machine Learning.<br>
+ * I love transforming ideas into real-world projects—be it web apps, mobile apps, or intelligent systems.<br> 
+ * I'm a lifelong learner who enjoys exploring new technologies and writing clean, efficient code.<br>
+ * Looking to collaborate on Open-source projects, innovative app ideas, and anything involving ML, web, or mobile development.<br>
+ * Currently learning Deep Learning, TypeScript, Next.js, and sharpening my Data Structures & Algorithms.<br> 
+ * Ask me about Flutter, React, Node.js, Python, ML, or tech in general—I’m always up for a good tech talk.<br> 
+ * I can spend hours debugging one line of code and still call it a productive day!
 
 
 ## 🌐 Socials:
