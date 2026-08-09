@@ -18,9 +18,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rajvsingh11&theme=shades-of-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvsingh11&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajvsingh11&theme=shades-of-purple&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
