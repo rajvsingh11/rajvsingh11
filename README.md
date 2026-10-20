@@ -4,16 +4,16 @@
 
 I'm a Computer Science postgraduate student passionate about building **useful software, intelligent applications, and AI-powered systems**. I enjoy working across the stack—from designing application interfaces and building APIs to integrating machine learning models and deploying real-world solutions.
 
-- 🎓 Pursuing **M.Tech in Computer Science & Engineering at NIT Srinagar**
-- 💻 Interested in **Software Development, Backend Engineering, AI/ML, and Generative AI**
-- 🧠 Exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and personalized AI systems**
-- 🛠️ Building applications with Flutter, FastAPI, Firebase, and modern backend technologies
-- 🌱 Currently strengthening my skills in **Spring Boot, Data Structures & Algorithms, and System Design**
-- ⚡ I enjoy turning ideas into working products and understanding how things work under the hood.
+-  Pursuing **M.Tech in Computer Science & Engineering at NIT Srinagar**
+-  Interested in **Software Development, Backend Engineering, AI/ML, and Generative AI**
+-  Exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and personalized AI systems**
+-  Building applications with Flutter, FastAPI, Firebase, and modern backend technologies
+-  Currently strengthening my skills in **Spring Boot, Data Structures & Algorithms, and System Design**
+-  I enjoy turning ideas into working products and understanding how things work under the hood.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -41,9 +41,9 @@ I'm a Computer Science postgraduate student passionate about building **useful s
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🩺 SwasthaMitra — AI-Powered Healthcare Application
+###  SwasthaMitra — AI-Powered Healthcare Application
 A healthcare application that uses machine learning to estimate heart disease risk and presents predictions through a mobile interface.
 
 - Built the mobile application using **Flutter**.
@@ -53,7 +53,7 @@ A healthcare application that uses machine learning to estimate heart disease ri
 
 **Tech:** Flutter · Python · FastAPI · Machine Learning · Firebase · Google Cloud
 
-### 🧠 PCOS Sakhi — Personalized AI Health Assistant (athena)
+###  PCOS Sakhi — Personalized AI Health Assistant (athena)
 An AI-powered research project exploring personalized lifestyle guidance for PCOS using memory-aware Retrieval-Augmented Generation.
 
 - Exploring conversational memory and retrieval for context-aware responses.
@@ -62,7 +62,7 @@ An AI-powered research project exploring personalized lifestyle guidance for PCO
 
 **Tech:** Python · LLMs · RAG · Machine Learning · Backend APIs
 
-### 💰 My KhataBook — Expense Tracker
+###  My KhataBook — Expense Tracker
 A personal finance application concept focused on tracking expenses and understanding spending patterns.
 
 - Organizes transactions and expense records.
@@ -73,7 +73,7 @@ A personal finance application concept focused on tracking expenses and understa
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Building reliable backend applications with **Java and Spring Boot**.
 - Exploring **LLM applications, RAG pipelines, and AI-powered personalization**.
@@ -83,21 +83,14 @@ A personal finance application concept focused on tracking expenses and understa
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark)
-
----
-
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm interested in connecting with developers, researchers, and builders working on software engineering, AI/ML, and Generative AI.
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/rajvsingh11)
-- 🐙 GitHub: [Explore my repositories](https://github.com/rajvsingh11)
-- 📧 Email: srajvardhan11@gmail.com
+-  LinkedIn: [Connect with me](https://www.linkedin.com/in/rajvsingh11)
+-  GitHub: [Explore my repositories](https://github.com/rajvsingh11)
+-  Email: srajvardhan11@gmail.com
 
 ---
 
