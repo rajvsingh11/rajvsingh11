@@ -1,42 +1,105 @@
-# About Me:
- * Hi there! I'm Raj Vardhan Singh, an engineering graduate passionate about building impactful digital solutions using C/C++, MERN Stack, Flutter, Python, and Machine Learning.<br>
- * I love transforming ideas into real-world projects—be it web apps, mobile apps, or intelligent systems.<br> 
- * I'm a lifelong learner who enjoys exploring new technologies and writing clean, efficient code.<br>
- * Looking to collaborate on Open-source projects, innovative app ideas, and anything involving ML, web, or mobile development.<br>
- * Currently learning Deep Learning, TypeScript, Next.js, and sharpening my Data Structures & Algorithms.<br> 
- * Ask me about Flutter, React, Node.js, Python, ML, or tech in general—I’m always up for a good tech talk.<br> 
- * I can spend hours debugging one line of code and still call it a productive day!
+# Hey, I'm RVS 
 
+### Software Developer | AI/ML Enthusiast | M.Tech CSE @ NIT Srinagar
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajvsingh11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvsingh11) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajvsingh11) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rajvsingh11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajvsingh_11) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/rajvsingh11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srajvardhan11@gmail.com) 
+I'm a Computer Science postgraduate student passionate about building **useful software, intelligent applications, and AI-powered systems**. I enjoy working across the stack—from designing application interfaces and building APIs to integrating machine learning models and deploying real-world solutions.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajvsingh11&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajvsingh11&theme=shades-of-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvsingh11&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 🎓 Pursuing **M.Tech in Computer Science & Engineering at NIT Srinagar**
+- 💻 Interested in **Software Development, Backend Engineering, AI/ML, and Generative AI**
+- 🧠 Exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and personalized AI systems**
+- 🛠️ Building applications with Flutter, FastAPI, Firebase, and modern backend technologies
+- 🌱 Currently strengthening my skills in **Spring Boot, Data Structures & Algorithms, and System Design**
+- ⚡ I enjoy turning ideas into working products and understanding how things work under the hood.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajvsingh11&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
+## 🧰 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!--
-**rajvsingh11/rajvsingh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-Here are some ideas to get you started:
+### AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 SwasthaMitra — AI-Powered Healthcare Application
+A healthcare application that uses machine learning to estimate heart disease risk and presents predictions through a mobile interface.
+
+- Built the mobile application using **Flutter**.
+- Integrated **FastAPI** with a machine learning prediction model.
+- Used Firebase for authentication and data management.
+- Deployed the prediction API using Google Cloud Run.
+
+**Tech:** Flutter · Python · FastAPI · Machine Learning · Firebase · Google Cloud
+
+### 🧠 PCOS Sakhi — Personalized AI Health Assistant (athena)
+An AI-powered research project exploring personalized lifestyle guidance for PCOS using memory-aware Retrieval-Augmented Generation.
+
+- Exploring conversational memory and retrieval for context-aware responses.
+- Designed around personalized lifestyle, nutrition, and exercise guidance.
+- Investigating the integration of LLMs with structured health information and wearable data.
+
+**Tech:** Python · LLMs · RAG · Machine Learning · Backend APIs
+
+### 💰 My KhataBook — Expense Tracker
+A personal finance application concept focused on tracking expenses and understanding spending patterns.
+
+- Organizes transactions and expense records.
+- Focuses on clear financial summaries and practical data visualization.
+- Explores a user-friendly approach to personal expense management.
+
+**Tech:** Application Development · Database Management · Data Visualization
+
+---
+
+## 🎯 Current Focus
+
+- Building reliable backend applications with **Java and Spring Boot**.
+- Exploring **LLM applications, RAG pipelines, and AI-powered personalization**.
+- Practicing DSA and improving problem-solving skills.
+- Learning more about system design, API architecture, and deployment.
+- Exploring open-source projects and opportunities to collaborate.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark)
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, researchers, and builders working on software engineering, AI/ML, and Generative AI.
+
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/rajvsingh11)
+- 🐙 GitHub: [Explore my repositories](https://github.com/rajvsingh11)
+- 📧 Email: srajvardhan11@gmail.com
+
+---
+
+> *Building things, breaking things, learning how they work, and building them better.*
+
